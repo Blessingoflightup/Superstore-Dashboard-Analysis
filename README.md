@@ -1,5 +1,4 @@
 # Superstore-Dashboard-Analysis
-# # Superstore Dashboard Showcase
 
 ## About the Project
 This project demonstrates the application of *Business Intelligence (BI)* and *data analytics* in the retail sector. Using Power BI, the project transforms Superstore’s sales, profit, and customer data (2019–2020) into actionable insights.
